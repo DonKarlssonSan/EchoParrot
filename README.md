@@ -1,6 +1,6 @@
-MicEffects
-==========
+Echo Parrot
+===========
 
 Uses Web Audio API for applying effects to sounds recorded with the mic.
 
-http://donkarlssonsan.github.io/MicEffects/
+http://donkarlssonsan.github.io/EchoParrot/
